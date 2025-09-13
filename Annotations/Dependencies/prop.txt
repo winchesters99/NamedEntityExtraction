@@ -1,0 +1,44 @@
+trainFile = /Users/salmanfaizi/Downloads/Context/annotatedNew/abcd/output1copy.tsv
+serializeTo = /Users/salmanfaizi/Downloads/Context/annotatedNew/abcd/dummy-ner-model-hindi.ser.gz
+map = word=0,answer=1
+
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+maxLeft=1
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+useDisjunctive=true
+conjoinShapeNGrams=true
+useMoreNeighborNGrams=true
+useGazettes=true
+useWordPairs=true
+cacheNGrams=true
+useLemmas=true
+useLemmaAsWord=true
+useWideDisjunctive=true
+useClassFeature=true
+useOccurrencePatterns=true
+useGenericFeatures=true
+useDisjShape=true
+useWordTag=true
+usePosition=true
+useTypeSeqs=true
+useTypeSeqs2=true
+normalizeTerms=true
+useLemmaAsWord=true
+useLemmas=true
+useSymTags=true
+sloppyGazette=true
+gazette=/Users/salmanfaizi/Downloads/Context/annotatedNew/abcd/gazetteer.txt
+
+
+

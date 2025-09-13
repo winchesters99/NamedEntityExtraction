@@ -1,0 +1,654 @@
+ORGANIZATION    Aaranyak
+ORGANIZATION    Animal Aid Unlimited
+ORGANIZATION    Animal Welfare Board of India
+ORGANIZATION    Bhartiya Gau Raksha Dal
+ORGANIZATION    Blue Cross of Hyderabad
+ORGANIZATION    Blue Cross of India
+ORGANIZATION    Cow protection movement
+ORGANIZATION    Federation of Indian Animal Protection Organisations
+ORGANIZATION    Hindustan Sea Turtle Alliance
+ORGANIZATION    Indian National Kennel Club
+ORGANIZATION    Kartaniya Ghat Alligator Breeding Center
+ORGANIZATION    Kavita Radheshyam Animal Movement
+ORGANIZATION    Kennel Club of India
+ORGANIZATION    MigrantWatch
+ORGANIZATION    National Commission on Cattle
+ORGANIZATION    National Institute of Animal Welfare
+ORGANIZATION    Peepal Farm
+ORGANIZATION    People for Animals Uttarakhand
+ORGANIZATION    Wildlife Institute of India
+ORGANIZATION    All Bengal Women's Union
+ORGANIZATION    All India Federation of Women Lawyers
+ORGANIZATION    All India Women's Conference
+ORGANIZATION    Anweshi Women's Counselling Centre
+ORGANIZATION    Appan Samachar
+ORGANIZATION    Association of Theologically Trained Women of India
+ORGANIZATION    Womanist Party of India
+ORGANIZATION    Sabala Organization
+ORGANIZATION    RAHI Foundation
+ORGANIZATION    Red Rickshaw Revolution
+ORGANIZATION    Rajiv Gandhi Mahila Vikas Pariyojana
+ORGANIZATION    Women Entrepreneurship Platform
+ORGANIZATION    Women in Cinema Collective
+ORGANIZATION    Women in Law and Litigation
+ORGANIZATION    The Women of India Leadership Summit
+ORGANIZATION    Women's Indian Association
+ORGANIZATION    Working Women's Forum
+ORGANIZATION    Naga Mothers Association
+ORGANIZATION    Nari Mukti Sangh
+ORGANIZATION    Bharatiya Grameen Mahila Sangh
+ORGANIZATION    Bharatiya Mahila Bank
+ORGANIZATION    Bharatiya Muslim Mahila Andolan
+ORGANIZATION    Bhumata Brigade
+ORGANIZATION    Bikerni Association of Women Motorcyclists
+ORGANIZATION    Breakthrough (human rights)
+ORGANIZATION    Export Inspection Council (EIC)
+ORGANIZATION    Export Inspection Agency-Delhi
+ORGANIZATION    Export Inspection Agency-Kolkata
+ORGANIZATION    Export Inspection Agency-Kochi
+ORGANIZATION    Export Inspection Agency-Mumbai
+ORGANIZATION    Export Inspection Agency-Chennai
+ORGANIZATION    Export Inspection agency-kakinada
+ORGANIZATION    Agricultural and Processed Food Products Export Development Authority (APEDA)
+ORGANIZATION    Federation of Indian Export Organisations (FIEO)
+ORGANIZATION    Indian Diamond Institute
+ORGANIZATION    Indian Institute of Foreign Trade (IIFT)
+ORGANIZATION    Indian Institute of Packaging (IIP)
+ORGANIZATION    Indian Institute of plantation Management Bengaluru (IIPM B)
+ORGANIZATION    Intellectual property Appellate Board (IPAB)
+ORGANIZATION    Indian Rubber Manufacturers Research Association (IRMRA)
+ORGANIZATION    Marine Products Export Development Authority (MPEDA)
+ORGANIZATION    National Institute of Design
+ORGANIZATION    National Numbering Organisation (EAN-India)
+ORGANIZATION    National Productivity Council (NPC)
+ORGANIZATION    Government of India undertaking
+ORGANIZATION    Government of India interpreting
+ORGANIZATION    Coffee Board
+ORGANIZATION    Rubber Board
+ORGANIZATION    Spices Board
+ORGANIZATION    Tobacco Board
+ORGANIZATION    Tea Board
+ORGANIZATION    Brahmaputra Board
+ORGANIZATION    National bee board
+ORGANIZATION    Basic Chemicals, Pharmaceuticals and Cosmetics Export Promotion Council (CHEMEXCIL)
+ORGANIZATION    Cashew Export Promotion Council of India (CEPCI)
+ORGANIZATION    Chemical and Allied Products Export Promotion Council (CAPEXIL)
+ORGANIZATION    Council for Leather Exports
+ORGANIZATION    Engineering Export Promotion Council (EEPC)
+ORGANIZATION    The Gem and Jewellery Export Promotion Council (GJEPC)
+ORGANIZATION    National Manufacturing Competitiveness Council (NMCC)
+ORGANIZATION    Plastics Export Promotion Council (PLEXCONCIL)
+ORGANIZATION    Project Exports Promotion Council of India (PEPC)
+ORGANIZATION    Sports Goods Export Promotion Council (SGEPC)
+ORGANIZATION    National Council Of Educational Research And Training (NCERT)
+ORGANIZATION    National Institute of Electronics and Information Technology (NIELIT)
+ORGANIZATION    Centre for Development of Advanced Computing (C-DAC)
+ORGANIZATION    Telecom Regulatory Authority of India (TRAI)
+ORGANIZATION    Centre for Development of Telematics (C-DOT)
+ORGANIZATION    Centre for Materials for Electronics Technology (C-MET)
+ORGANIZATION    Education and Research Network (ERNET)
+ORGANIZATION    Electronics and Computer Software Export Promotion Council (ESC)
+ORGANIZATION    MIT Accreditation of Computer Courses
+ORGANIZATION    Society for Applied Microwave Electronic Engineering and Research (SAMEER)
+ORGANIZATION    Software Technology Parks of India (STPI)
+ORGANIZATION    Media Lab Asia (MLAsia)
+ORGANIZATION    Department of Information Technology
+ORGANIZATION    Department of Posts
+ORGANIZATION    Department of Telecommunications
+ORGANIZATION    National Informatics Centre (NIC)
+ORGANIZATION    Standardisation, Testing and Quality Certification (STQC)
+ORGANIZATION    Electronics Regional Test Laboratory (ERTL)
+ORGANIZATION    Anthropological Survey of India (AnSI)
+ORGANIZATION    Archaeological Survey of India (ASI)
+ORGANIZATION    Central Reference Library
+ORGANIZATION    National Archives of India (NAI)
+ORGANIZATION    National Library of India
+ORGANIZATION    National Museum, New Delhi
+ORGANIZATION    National Gallery of Modern Art, New Delhi
+ORGANIZATION    National Gallery of Modern Art, Mumbai
+ORGANIZATION    National Gallery of Modern Art, Bengaluru
+ORGANIZATION    National Research Laboratory for Conservation of Cultural Property (NRLC)
+ORGANIZATION    Asiatic Society
+ORGANIZATION    Central Institute of Higher Tibetan Studies (CIHTS)
+ORGANIZATION    Centre for Cultural Resources and Training (CCRT)
+ORGANIZATION    Gandhi Smriti and Darshan Samiti (GSDS)
+ORGANIZATION    Indian Museum, Kolkata
+ORGANIZATION    Indira Gandhi National Centre for the Arts (IGNCA)
+ORGANIZATION    Kalakshetra Foundation, Chennai
+ORGANIZATION    Khuda Bakhsh Oriental Public Library, Patna
+ORGANIZATION    Maulana Abul Kalam Azad Institute of Asian Studies (MAKAIAS)
+ORGANIZATION    National Council of Science Museums (NCSM)
+ORGANIZATION    National Culture Fund
+ORGANIZATION    National Electronic Register of Jain Manuscripts
+ORGANIZATION    National Mission for Manuscripts
+ORGANIZATION    National Museum Institute (NMI)
+ORGANIZATION    National School of Drama
+ORGANIZATION    Raja Rammohun Roy Library Foundation (RRRLF)
+ORGANIZATION    Rampur Raza Library
+ORGANIZATION    Sahitya Akademi
+ORGANIZATION    Sangeet Natak Akademi
+ORGANIZATION    Victoria Memorial Hall, Kolkata
+ORGANIZATION    Zonal Cultural Centres:
+ORGANIZATION    Eastern Zonal Cultural Centre
+ORGANIZATION    North Central Zone Cultural Centre
+ORGANIZATION    North East Zone Cultural Centre
+ORGANIZATION    North Zone Cultural Centre
+ORGANIZATION    South Central Zone Cultural Centre
+ORGANIZATION    South Zone Cultural Centre
+ORGANIZATION    West Zone Cultural Centre
+ORGANIZATION    Ordnance Factories Organisation
+ORGANIZATION    Directorate General of Quality Assurance (DGQA)
+ORGANIZATION    Directorate General of Aeronautical Quality Assurance (DGAQA)
+ORGANIZATION    Directorate of Standardisation
+ORGANIZATION    Directorate of Planning & Coordination
+ORGANIZATION    Defence Exhibition Organisation (DEO)
+ORGANIZATION    Bharat Dynamics Limited
+ORGANIZATION    Bharat Earth Movers Limited
+ORGANIZATION    Bharat Electronics Limited
+ORGANIZATION    Garden Reach Shipbuilders and Engineers Limited (GRSE)
+ORGANIZATION    Goa Shipyard Limited
+ORGANIZATION    Hindustan Aeronautics Limited
+ORGANIZATION    Mazagon Dock Limited
+ORGANIZATION    Mishra Dhatu Nigam Limited (MIDHANI)
+ORGANIZATION    Military Engineering Service
+ORGANIZATION    Armed Forces Medical Services
+ORGANIZATION    Office of the Chief Administrative Officer
+ORGANIZATION    Directorate General of Defence Estates
+ORGANIZATION    Directorate General of Married Accommodation Project (DG MAP)
+ORGANIZATION    Directorate of Public Relations
+ORGANIZATION    Armed Forces Films & Photo Division
+ORGANIZATION    History Division
+ORGANIZATION    Institute for Defence Studies and Analyses (IDSA)
+ORGANIZATION    Ministry of Defence Library
+ORGANIZATION    Services Sports Control Board
+ORGANIZATION    School of Foreign Languages
+ORGANIZATION    National Defence College
+ORGANIZATION    College of Defence Management
+ORGANIZATION    Defence Services Staff College
+ORGANIZATION    National Defence Academy
+ORGANIZATION    Armed Forces Medical College
+ORGANIZATION    Andaman & Nicobar Islands Forest and Plantation Development Corporation (Public Sector Undertaking)
+ORGANIZATION    Animal Welfare Board of India
+ORGANIZATION    Botanical Survey of India (BSI), Kolkata
+ORGANIZATION    Central Pollution Control Board
+ORGANIZATION    Central Zoo Authority, New Delhi
+ORGANIZATION    Directorate of Forest Education (DFE), Dehradun
+ORGANIZATION    Forest Survey of India (FSI), Dehradun
+ORGANIZATION    Indira Gandhi National Forest Academy (IGNFA), Dehradun
+ORGANIZATION    National Afforestation and Eco-Development Board
+ORGANIZATION    National Biodiversity Authority, Chennai
+ORGANIZATION    National Ganga River Basin Authority
+ORGANIZATION    National Institute of Animal Welfare
+ORGANIZATION    National Museum of Natural History (NMNH), New Delhi
+ORGANIZATION    National Tiger Conservation Authority
+ORGANIZATION    National Zoological Park (NZP), New Delhi
+ORGANIZATION    Zoological Survey of India (ZSI), Kolkata
+ORGANIZATION    Arid Forest Research Institute
+ORGANIZATION    Forest Research Institute (India)
+ORGANIZATION    Himalayan Forest Research Institute
+ORGANIZATION    Institute of Forest Biodiversity
+ORGANIZATION    Institute of Forest Genetics and Tree Breeding
+ORGANIZATION    Institute of Forest Productivity
+ORGANIZATION    Institute of Wood Science and Technology
+ORGANIZATION    Rain Forest Research Institute
+ORGANIZATION    Tropical Forest Research Institute
+ORGANIZATION    Advanced Research Centre for Bamboo and Rattan
+ORGANIZATION    Centre for Forestry Research and Human Resource Development
+ORGANIZATION    Centre for Social Forestry and Eco-Rehabilitation
+ORGANIZATION    Centre for Forest Based Livelihood and Extension
+ORGANIZATION    Indian Institute of Forest Management
+ORGANIZATION    Indian Plywood Industries Training and Research Institute
+ORGANIZATION    Wildlife Institute of India (WII)
+ORGANIZATION    Indian Revenue Service
+ORGANIZATION    Department of Disinvestment
+ORGANIZATION    Department of Economic Affairs
+ORGANIZATION    Department of Revenue
+ORGANIZATION    Central Board of Excise and Customs
+ORGANIZATION    Central Economic Intelligence Bureau
+ORGANIZATION    Directorate General of Central Excise Intelligence
+ORGANIZATION    Directorate General of Economic Enforcement
+ORGANIZATION    Directorate of Revenue Intelligence
+ORGANIZATION    Central Bureau of Narcotics
+ORGANIZATION    Government Opium and Alkaloid Factories
+ORGANIZATION    Central Board of Direct Taxes
+ORGANIZATION    Income Tax Air Intelligence Unit
+ORGANIZATION    Chief Commissioner of Income Tax Central
+ORGANIZATION    Investigation Division of the Central Board of Direct Taxes
+ORGANIZATION    National Academy of Direct Taxes
+ORGANIZATION    Directorate General of Income Tax Investigation(for economic exchange related offences)
+ORGANIZATION    Directorate of Income Tax Intelligence and Criminal Investigation (for criminal economic offences)
+ORGANIZATION    Customs Excise and Service Tax Appellate Tribunal (CESTAT)
+ORGANIZATION    Income Tax Appellate Tribunal (ITAT)
+ORGANIZATION    National Institute of Financial Management
+ORGANIZATION    Reserve Bank of India
+ORGANIZATION    Securities and Exchange Board of India
+ORGANIZATION    Insurance Regulatory and Development Authority
+ORGANIZATION    Pension Fund Regulatory and Development Authority
+ORGANIZATION    Insolvency and Bankruptcy Board of India
+ORGANIZATION    National Institute of Securities Markets (NISM)
+ORGANIZATION    National AIDS Control Organisation (NACO)
+ORGANIZATION    Medical Council of India
+ORGANIZATION    Indian Nursing Council (INC)
+ORGANIZATION    Dental Council of India
+ORGANIZATION    All India Institute of Speech and Hearing (AIISH), Mysore
+ORGANIZATION    All India Institute of Physical Medicine and Rehabilitation (AIIPMR), Mumbai
+ORGANIZATION    Hospital Services Consultancy Corporation Limited (HSCC)
+ORGANIZATION    Pharmacy Council of India[PCI]
+ORGANIZATION    Indian Police Service
+ORGANIZATION    Intelligence Bureau
+ORGANIZATION    Central Reserve Police Force
+ORGANIZATION    Bureau of Police Research and Development
+ORGANIZATION    Central Industrial Security Force
+ORGANIZATION    National Security Guard
+ORGANIZATION    National Institute of Criminology and Forensic Sciences
+ORGANIZATION    National Crime Records Bureau
+ORGANIZATION    National Civil Defence College
+ORGANIZATION    National Investigation Agency ( NIA )
+ORGANIZATION    National Crime Investigation Bureau (Registered Under Govt. Of India)
+ORGANIZATION    North Eastern Council
+ORGANIZATION    North Eastern Police Academy
+ORGANIZATION    Office of the Registrar General and Census Commissioner, Census of India
+ORGANIZATION    Sardar Vallabhbhai Patel National Police Academy
+ORGANIZATION    Assam Rifles
+ORGANIZATION    Rashtriya Rifles
+ORGANIZATION    Narcotics Control Bureau
+ORGANIZATION    Border Security Force
+ORGANIZATION    Indo-Tibetan Border Police
+ORGANIZATION    Sashastra Seema Bal
+ORGANIZATION    Central Reserve Police Force
+ORGANIZATION    Central Industrial Security Force
+ORGANIZATION    National Security Guards
+ORGANIZATION    Special Frontier Force
+ORGANIZATION    Indian Coast Guard
+ORGANIZATION    Assam Rifles
+ORGANIZATION    Defence Security Corps
+ORGANIZATION    Department of School Education and Literacy
+ORGANIZATION    Central Board of Secondary Education (CBSE)
+ORGANIZATION    Central Tibetan School Administration (CTSA)
+ORGANIZATION    Kendriya Vidyalaya Sangathan (KVS)
+ORGANIZATION    National Commission for Minority Educational Institutions (NCMEI)
+ORGANIZATION    National Council of Educational Research and Training (NCERT)
+ORGANIZATION    National Foundation for Teachers' Welfare
+ORGANIZATION    National Institute of Open Schooling (NIOS)
+ORGANIZATION    Navodaya Vidyalaya Samiti (NVS)
+ORGANIZATION    Institution of Engineers (India), Kolkata
+ORGANIZATION    Department of Higher Education
+ORGANIZATION    University Grants Commission
+ORGANIZATION    National Assessment and Accreditation Council
+ORGANIZATION    Distance Education Council (DEC)
+ORGANIZATION    Indian Council of Agricultural Research (ICAR)
+ORGANIZATION    Bar Council of India (BCI)
+ORGANIZATION    National Council for Teacher Education (NCTE)
+ORGANIZATION    Rehabilitation Council of India (RCI)
+ORGANIZATION    Medical Council of India (MCI)
+ORGANIZATION    Pharmacy Council of India (PCI)
+ORGANIZATION    Indian Nursing Council (INC)
+ORGANIZATION    Dental Council of India (DCI)
+ORGANIZATION    Central Council of Homoeopathy (CCH)
+ORGANIZATION    Central Council of Indian Medicine (CCIM)
+ORGANIZATION    National Council for Rural Institutes
+ORGANIZATION    State Councils of Higher Education
+ORGANIZATION    All India Council for Technical Education (AICTE)
+ORGANIZATION    National Board of Accreditation (intended to replace AICTE)
+ORGANIZATION    Central Hindi Directorate (CHD), New Delhi
+ORGANIZATION    Central Institute of Indian Languages, Mysore
+ORGANIZATION    Commission for Scientific & Technological Terminology (CSTT), New Delhi
+ORGANIZATION    Council of Architecture
+ORGANIZATION    Educational Consultants (India) Limited (EdCIL) (Public Sector Undertaking)
+ORGANIZATION    Indian Council of Social Science Research (ICSSR)
+ORGANIZATION    Centre for the Study of Developing Societies (CSDS)
+ORGANIZATION    Indian Council of Historical Research (ICHR)
+ORGANIZATION    Indian Council of Philosophical Research (ICPR)
+ORGANIZATION    National Book Trust (NBT)
+ORGANIZATION    National Council for Promotion of Urdu Language (NCPUL)
+ORGANIZATION    National Council for Promotion of Sindhi Language (NCPSL)
+ORGANIZATION    Inter-university centres (IUCs)
+ORGANIZATION    Nuclear Science Centre, New Delhi
+ORGANIZATION    Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune
+ORGANIZATION    InterâUniversity Consortium for DAE Facilities, Indore
+ORGANIZATION    Information and Library Network (INFLIBNET), Ahmedabad
+ORGANIZATION    Consortium for Educational Communication (CEC)
+ORGANIZATION    Directorate of Advertising and Visual Publicity
+ORGANIZATION    Directorate of Field Publicity
+ORGANIZATION    Directorate of Film Festivals
+ORGANIZATION    International Film Festival of India
+ORGANIZATION    Prasar Bharati
+ORGANIZATION    All India Radio (AIR)
+ORGANIZATION    Doordarshan
+ORGANIZATION    Central Board of Film Certification
+ORGANIZATION    Children's Film Society
+ORGANIZATION    Film and Television Institute of India
+ORGANIZATION    Film Certification Appellate Tribunal
+ORGANIZATION    Indian Institute of Mass Communication (IIMC)
+ORGANIZATION    National Film Archive of India (NFAI)
+ORGANIZATION    Office of the Registrar of Newspapers for India (RNI)
+ORGANIZATION    Press Council of India
+ORGANIZATION    Press Information Bureau (PIB)
+ORGANIZATION    Satyajit Ray Film and Television Institute
+ORGANIZATION    Films Division
+ORGANIZATION    Photo Division
+ORGANIZATION    Publications Division
+ORGANIZATION    Research Reference and Training Division
+ORGANIZATION    Song and Drama Division
+ORGANIZATION    Broadcast Engineering Consultants India Limited (public sector undertaking)
+ORGANIZATION    National Film Development Corporation (public sector undertaking)
+ORGANIZATION    Directorate General of Employment and Training (DGE&T)
+ORGANIZATION    Women Training Directorate
+ORGANIZATION    Directorate General, Factory Advice Service and Labour Institutes (DGFASLI)
+ORGANIZATION    Directorate General of Mines Safety (DGMS)
+ORGANIZATION    Labour Bureau (labour statistics)
+ORGANIZATION    Employees State Insurance Corporation (ESIC)
+ORGANIZATION    Employees' Provident Fund Organisation
+ORGANIZATION    Advanced Training Institute for Electronics and Process Instrumentation
+ORGANIZATION    Advanced Training Institute, Mumbai
+ORGANIZATION    Apprenticeship Training Scheme
+ORGANIZATION    Craftsmen Training Scheme, Industrial training institute
+ORGANIZATION    Foreman Training Institute, Bangalore
+ORGANIZATION    V. V. Giri National Labour Institute
+ORGANIZATION    central board for workers education
+ORGANIZATION    Bharat Wagon and Engineering Limited (public sector undertaking)
+ORGANIZATION    Central Organisation for Modernisation of Workshops
+ORGANIZATION    Central Organisation for Railway Electrification (CORE)
+ORGANIZATION    Container Corporation of India (public sector undertaking)
+ORGANIZATION    Dedicated Freight Corridor Corporation of India (public sector undertaking)
+ORGANIZATION    Indian Railway Finance Corporation (public sector undertaking)
+ORGANIZATION    IRCON International (public sector undertaking)
+ORGANIZATION    Rail Vikas Nigam Limited (public sector undertaking)
+ORGANIZATION    Railtel Corporation of India (public sector undertaking)
+ORGANIZATION    Railway Protection Force
+ORGANIZATION    RITES Limited (public sector undertaking)
+ORGANIZATION    Rail Land Development Authority
+ORGANIZATION    Research Design and Standards Organisation, Lucknow
+ORGANIZATION    Indian Railway Catering and Tourism Corporation (public sector undertaking)
+ORGANIZATION    Konkan Railway Corporation (public sector undertaking)
+ORGANIZATION    Mumbai Railway Vikas Corporation (public sector undertaking)
+ORGANIZATION    Department of Sports
+ORGANIZATION    National Sports Federation
+ORGANIZATION    Sports Authority of India (SAI)
+ORGANIZATION    All India Boxing Association (AIBA)
+ORGANIZATION    Indian Amateur Boxing Federation
+ORGANIZATION    Wrestling Federation of India (WFI)
+ORGANIZATION    Board of Control for Cricket in India (BCCI)
+ORGANIZATION    Indian Olympic Association (IOA)
+ORGANIZATION    All India Chess Federation
+ORGANIZATION    All India Football Federation (AIFF)
+ORGANIZATION    All India Tennis Association (AITA)
+ORGANIZATION    Tamil Nadu State Chess Association (TNSCA)
+ORGANIZATION    All India Carrom Federation (AICF)
+ORGANIZATION    Badminton Association of India
+ORGANIZATION    Ball Badminton Federation of India
+ORGANIZATION    Amateur Baseball federation of India
+ORGANIZATION    Indian Body Builders Federation
+ORGANIZATION    Bridge Federation of India
+ORGANIZATION    Cycling Federation of India
+ORGANIZATION    Equestrian Federation of India (EFI)
+ORGANIZATION    Hockey India
+ORGANIZATION    Table Tennis Federation of India (TTFI)
+ORGANIZATION    Volleyball Federation of India (VFI)
+ORGANIZATION    Indian Weightlifting Federation
+ORGANIZATION    Indian Powerlifting Federation
+ORGANIZATION    Billiards & Snookers Federation of India
+ORGANIZATION    Amateur Kabaddi Federation of India
+ORGANIZATION    Yachting Association of India
+ORGANIZATION    Kho-Kho Federation of India
+ORGANIZATION    Basketball Federation of India
+ORGANIZATION    Wushu Association of India
+ORGANIZATION    Netball Federation of India
+ORGANIZATION    Jump Rope Federation of India (JRFI)
+ORGANIZATION    Paralympic Committee of India
+ORGANIZATION    National Rifle Association of India (NRAI)
+ORGANIZATION    Judo Federation of India
+ORGANIZATION    Swimming Federation of India
+ORGANIZATION    National Anti-Doping Agency (NADA)
+ORGANIZATION    Services Sports Control Board
+ORGANIZATION    Planning Commission
+ORGANIZATION    Telecom Regulatory Authority of India(TRAI)
+ORGANIZATION    Election Commission of India
+ORGANIZATION    Comptroller and Auditor General of India (CAG)
+ORGANIZATION    Union Public Service Commission (UPSC)
+ORGANIZATION    Central Information Commission
+ORGANIZATION    Central Vigilance Commission (CVC)
+ORGANIZATION    Office of the Principal Scientific Adviser
+ORGANIZATION    National Commission for Backward Classes (NCBC)
+ORGANIZATION    National Commission for Minorities (NCM)
+ORGANIZATION    National Commission for Scheduled Castes (NCSC)
+ORGANIZATION    National Commission for Scheduled Tribes (NCST)
+ORGANIZATION    National Commission for Women (NCW)
+ORGANIZATION    National Commission on Population
+ORGANIZATION    National Human Rights Commission (NHRC)
+ORGANIZATION    Central Electricity Regulatory Commission (CERC)
+ORGANIZATION    Reserve Bank of India (RBI)
+ORGANIZATION    Goods & Services Tax Council (GSTC)
+ORGANIZATION    Food and Drug Administration (FDA)
+ORGANIZATION    Criminal Investigations Department (CID)
+ORGANIZATION    Directorate General Civil Defence & Fire Services (DGCD)
+ORGANIZATION    Home Guards
+ORGANIZATION    Railway Protection Force
+ORGANIZATION    Rapid Action Force (RAF)
+ORGANIZATION    Central Reserve Police Force (CRPF)
+ORGANIZATION    Central Industrial Security Force (CISF)
+ORGANIZATION    Central Vigilance Commission
+ORGANIZATION    Narcotics Control Bureau (NCB)
+ORGANIZATION    National Security Guards (NSG)
+ORGANIZATION    Defence Security Corps
+ORGANIZATION    Department of Internal Security
+ORGANIZATION    Special Protection Group (SPG)
+ORGANIZATION    Appellate Tribunal for Electricity
+ORGANIZATION    Appellate Tribunal for Forfeited Property
+ORGANIZATION    Appellate Tribunal for Foreign Exchange
+ORGANIZATION    Airports Economic Regulatory Authority Appellate Tribunal
+ORGANIZATION    Armed Forces Tribunal
+ORGANIZATION    Authority for Advance Rulings
+ORGANIZATION    Authority for Advance Rulings (Central Excise, Customs and Service Tax)
+ORGANIZATION    Central Administrative Tribunal
+ORGANIZATION    Competition Commission of India
+ORGANIZATION    Company Law Board
+ORGANIZATION    Competition Appellate Tribunal
+ORGANIZATION    Customs, Excise and Service Tax Appellate Tribunal
+ORGANIZATION    Cyber Appellate Tribunal
+ORGANIZATION    Debts Recovery Appellate Tribunal
+ORGANIZATION    Film Certification Appellate Tribunal
+ORGANIZATION    Income-Tax Appellate Tribunal
+ORGANIZATION    Industrial Tribunal
+ORGANIZATION    Intellectual Property Appellate Board
+ORGANIZATION    National Green Tribunal
+ORGANIZATION    National Highways Tribunal
+ORGANIZATION    National Consumer Disputes Redressal Commission
+ORGANIZATION    Railway Claims Tribunal
+ORGANIZATION    Securities Appellate Tribunal
+ORGANIZATION    Telecom Disputes Settlement and Appellate Authority
+ORGANIZATION    Telecom Regulatory Authority of India
+ORGANIZATION    Aam Aadmi Party
+ORGANIZATION    All India Anna Dravida Munnetra Kazhagam
+ORGANIZATION    All India Forward Bloc
+ORGANIZATION    All India Majlis-e-Ittehadul Muslimeen
+ORGANIZATION    All India N.R. Congress
+ORGANIZATION    All India United Democratic Front
+ORGANIZATION    Amma Makkal Munnetra Kazhagam
+ORGANIZATION    Asom Gana Parishad
+ORGANIZATION    Desiya Murpokku Dravida Kazhagam
+ORGANIZATION    Indian National Lok Dal
+ORGANIZATION    Jammu & Kashmir National Conference
+ORGANIZATION    Jammu and Kashmir People's Democratic Party
+ORGANIZATION    Revolutionary Socialist Party
+ORGANIZATION    Rashtriya Loktantrik Party
+ORGANIZATION    Adhya Educational Society
+ORGANIZATION    Aeronautical Society of India
+ORGANIZATION    Ahmedabad Education Society
+ORGANIZATION    Akancha Srivastava Foundation
+ORGANIZATION    All India Federation of Tax Practitioners
+ORGANIZATION    All India Management Association
+ORGANIZATION    Amalthea (Technical Summit)
+ORGANIZATION    Animal Aid Unlimited
+ORGANIZATION    Apnalaya
+ORGANIZATION    Association for Democratic Reforms
+ORGANIZATION    Association for Social and Environmental Development
+ORGANIZATION    Audit Bureau of Circulations (India)
+ORGANIZATION    Bal Bharati Public School
+ORGANIZATION    Balala Hakkula Sangham
+ORGANIZATION    Bangalore Astronomical Society
+ORGANIZATION    Bell Bajao
+ORGANIZATION    Bharatiya Bhasha Parishad
+ORGANIZATION    Bharatiya Jain Sanghatana
+ORGANIZATION    Bharatiya Jnanpith
+ORGANIZATION    BHUMI (organisation)
+ORGANIZATION    Books on the Delhi Metro
+ORGANIZATION    Broadcast Audience Research Council
+ORGANIZATION    Federation of Indian Chambers of Commerce & Industry
+ORGANIZATION    Foundation for Democratic Reforms
+ORGANIZATION    Foundation for Ecological Security
+ORGANIZATION    Foundation for Universal Responsibility of His Holiness the Dalai Lama
+ORGANIZATION    Free Software Foundation Tamil Nadu
+ORGANIZATION    Free Software Movement of Karnataka
+ORGANIZATION    Friends of Tribals Society
+ORGANIZATION    Friends2support
+ORGANIZATION    Gender and Trade Initiative
+ORGANIZATION    GiveIndia
+ORGANIZATION    Going to School
+ORGANIZATION    GoSports Foundation
+ORGANIZATION    Gram Vikas
+ORGANIZATION    Greenvein
+ORGANIZATION    Gujarat Vidhya Sabha
+ORGANIZATION    Gujarati Sahitya Parishad
+ORGANIZATION    Kaliyuva Mane School, Mysore
+ORGANIZATION    Kalvialaya
+ORGANIZATION    Kamal Kumari Foundation
+ORGANIZATION    Kannada Sahitya Parishat
+ORGANIZATION    Kerala Brahmana Sabha
+ORGANIZATION    Kerala Sahitya Akademi
+ORGANIZATION    Kerala Sasthra Sahithya Parishad
+ORGANIZATION    Khel Khel Mein Foundation
+ORGANIZATION    Kherwadi Social Welfare Association
+ORGANIZATION    Kheti Virasat Mission
+ORGANIZATION    Kunpan Cultural School
+ORGANIZATION    Kutumb Foundation
+ORGANIZATION    Kyun Ki Shahar Hai Aapka
+ORGANIZATION    SÃ¡lim Ali Centre for Ornithology and Natural History
+ORGANIZATION    Samata (NGO)
+ORGANIZATION    Sambhali Trust
+ORGANIZATION    Sampark Foundation
+ORGANIZATION    Sanatan Sangeet Sanskriti
+ORGANIZATION    Sanket Trust
+ORGANIZATION    Sarathi Socio Cultural Trust
+ORGANIZATION    Sarvodaya Sanskrit Ashram
+ORGANIZATION    Save the Children India
+ORGANIZATION    Sawan Kirpal Ruhani Mission
+ORGANIZATION    Schools of Equality
+ORGANIZATION    Serudsngo
+ORGANIZATION    Servants of the People Society
+ORGANIZATION    Sevalaya
+ORGANIZATION    Shanti Bhavan
+ORGANIZATION    Shantmanas
+ORGANIZATION    Sherab Gatsel Lobling School
+ORGANIZATION    Shiksha (NGO)
+ORGANIZATION    Shoshit Seva Sangh
+ORGANIZATION    Shraddha Rehabilitation Foundation
+ORGANIZATION    Shram Sadhana Trust
+ORGANIZATION    Shramik Bharti
+ORGANIZATION    Shri Ram Chandra Mission
+ORGANIZATION    Simply Blood
+ORGANIZATION    Sivamathiyin Jeevayoga Jothimayam
+ORGANIZATION    Societies Registration Act, 1860
+ORGANIZATION    South Asia Analysis Group
+ORGANIZATION    South Asian Management Technologies Foundation
+ORGANIZATION    South Indian Federation of Fishermen Societies
+ORGANIZATION    Southern Indian Chamber of Commerce and Industry
+ORGANIZATION    SPIC MACAY
+ORGANIZATION    Sree Pushpakabrahmana Seva Sangham
+ORGANIZATION    Srujanika
+ORGANIZATION    Startup Village
+ORGANIZATION    The Stenographers' Guild
+ORGANIZATION    Sugam Vedashram
+ORGANIZATION    Sultan-ul-Uloom Education Society
+ORGANIZATION    Swecha
+ORGANIZATION    Systems Research Institute (India)
+ORGANIZATION    Haji Public School
+ORGANIZATION    Harijan Sevak Sangh
+ORGANIZATION    HelpAge India
+ORGANIZATION    Helpingminds
+ORGANIZATION    Hitkarini Sabha
+ORGANIZATION    The Yoga Institute
+ORGANIZATION    The Youth Parliament
+ORGANIZATION    Youth United
+ORGANIZATION    NASSCOM
+ORGANIZATION    National Centre for Financial Education
+ORGANIZATION    National Institute for Smart Government
+ORGANIZATION    National Institute of Speech and Hearing
+ORGANIZATION    National Skill Development Corporation
+ORGANIZATION    Nature Conservation Foundation
+ORGANIZATION    Natyoshala
+ORGANIZATION    Navsarjan Trust
+ORGANIZATION    New Life College at Bangalore
+ORGANIZATION    Nimmagadda Foundation
+ORGANIZATION    Shree Aniruddha Upasana Foundation
+ORGANIZATION    Northwest College for Advanced Learning
+ORGANIZATION    National Resource Centre for Free/Open Source Software
+ORGANIZATION    Nudge Foundation
+ORGANIZATION    Center for Biochemical Technology
+ORGANIZATION    Central Avian Research Institute
+ORGANIZATION    Central Institute of Mining and Fuel Research
+ORGANIZATION    Central Mechanical Engineering Research Institute
+ORGANIZATION    Central Scientific Instruments Organisation
+ORGANIZATION    Centre for Science, Development and Media Studies
+ORGANIZATION    Chemical Research Society of India
+ORGANIZATION    CICS Chennai
+ORGANIZATION    Confederation of Indian Amateur Astronomers
+ORGANIZATION    Central Building Research Institute
+ORGANIZATION    Council of Scientific and Industrial Research
+ORGANIZATION    Cryptology Research Society of India
+ORGANIZATION    Ibn Sina Academy of Medieval Medicine and Sciences
+ORGANIZATION    Indian Association for Angiosperm Taxonomy
+ORGANIZATION    Indian Botanical Society
+ORGANIZATION    Indian Chemical Society
+ORGANIZATION    Indian Geophysical Union
+ORGANIZATION    Indian Institute of Chemical Biology
+ORGANIZATION    Indian Mathematical Society
+ORGANIZATION    Indian Physical Society
+ORGANIZATION    Indian Society for Parasitology
+ORGANIZATION    Institute of Genomics and Integrative Biology
+ORGANIZATION    National Academy of Medical Sciences
+ORGANIZATION    National Centre for Earth Science Studies
+ORGANIZATION    National Centre for Science Communicators
+ORGANIZATION    National Collection of Industrial Microorganisms
+ORGANIZATION    National Council of Science Museums
+ORGANIZATION    National Innovation Foundation - India
+ORGANIZATION    National Institute for Interdisciplinary Science and Technology
+ORGANIZATION    Nature Conservation Foundation
+ORGANIZATION    Delhi Greens
+ORGANIZATION    Department of Environment and Forests, Government of Assam
+ORGANIZATION    Development Alternatives Group
+ORGANIZATION    India Nature Watch
+ORGANIZATION    Indian Council of Forestry Research and Education
+ORGANIZATION    Indian Institute of Ecology and Environment
+ORGANIZATION    Indian Institute of Toxicology Research
+ORGANIZATION    Indian Youth Climate Network
+ORGANIZATION    National Biodiversity Authority
+ORGANIZATION    National Green Corps
+ORGANIZATION    Nature Club Surat
+ORGANIZATION    Nature Conservation Foundation
+ORGANIZATION    Nature's Beckon
+ORGANIZATION    People's Science Institute
+ORGANIZATION    Pondicherry Science Forum
+ORGANIZATION    Poovulagin Nanbargal
+ORGANIZATION    Prakratik Society
+ORGANIZATION    PSG Group
+ORGANIZATION    Public Affairs Centre India
+ORGANIZATION    Centre for Ecology & Rural Development
+ORGANIZATION    Centre for Environment Education
+ORGANIZATION    Centre for People's Forestry
+ORGANIZATION    Centre for Science and Environment
+ORGANIZATION    Cities for Forests
+ORGANIZATION    Conserve (NGO)
+ORGANIZATION    Water Literacy Foundation
+ORGANIZATION    Wildlife Protection Society of India
+ORGANIZATION    Wildlife SOS
+ORGANIZATION    Wildlife Trust of India
+ORGANIZATION    World Sustainable Development Summit (WSDS)
+ORGANIZATION    National Biodiversity Authority
+ORGANIZATION    National Green Corps
+ORGANIZATION    Nature Club Surat
+ORGANIZATION    Nature Conservation Foundation
+ORGANIZATION    Nature's Beckon
+ORGANIZATION    Navdanya
+ORGANIZATION    Nilgiri Wildlife and Environment Association
+ORGANIZATION    
